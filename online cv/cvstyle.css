@@ -1,0 +1,73 @@
+center{
+    padding-top: 50pt;
+}
+#other-image{
+    
+    width: 230px;
+    height: 190px;
+    border-radius: 0%;
+    position: relative;
+    top:40pt;
+    
+}
+img{
+    float: right;
+    position: relative;
+    left:-10px;
+    border-radius: 100%;
+    width: 24px;
+    height: 24px;
+}
+
+
+#myimage{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    float: right;
+    position: relative;
+    left:-10px;
+}
+body{
+    background-color: aqua;
+    border: 2px solid black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+hr{
+    color: darkgray;
+    
+}
+
+.head{
+    font-size: 18pt;
+    position: relative;
+    left: 10px;
+}
+
+ul{
+    text-align: justify;
+    position: relative;
+    left: -20px;
+}
+li{
+    text-align: justify;
+    position: relative;
+    left: -2px;
+}
+
+#footer{
+    position: relative;
+    left: 10px;
+}
+.right{
+    position: relative;
+    left: 10px; 
+}
+h1{
+padding-bottom: 50px;
+font-size: 30pt;
+}
+
